@@ -1,4 +1,4 @@
-### Hi there I am not a Hacker
+### Hi there I'm not a Hacker
 
 <!--
 **phihung5705developer/phihung5705developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
