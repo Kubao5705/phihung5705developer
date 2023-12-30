@@ -1,4 +1,5 @@
-<img width="910" alt="Capture1" src="https://github.com/phihung5705developer/phihung5705developer/assets/115966431/4237acce-37e6-4873-9bb0-b392a9287552">
+![Capture](https://github.com/phihung5705developer/phihung5705developer/assets/115966431/4a9a4465-c099-4916-a70d-7c4d7a96cd0b)
+
 
 ### 生命就是旅程 
 
