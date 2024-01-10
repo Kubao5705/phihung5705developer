@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&weight=500&pause=1000&color=F70101&center=true&vCenter=true&random=false&width=435&lines=root%40Phung5705%3A~%23" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Scribble&pause=1000&color=F70000&center=%C4%90%C3%9ANG+V%E1%BA%ACY&vCenter=%C4%90%C3%9ANG+V%E1%BA%ACY&repeat=%C4%90%C3%9ANG+V%E1%BA%ACY&random=SAI&width=435&lines=root%40Phung5705%3A~%23" alt="Typing SVG" /></a>
 ![standard (1)](https://github.com/phihung5705developer/phihung5705developer/assets/115966431/f097655a-87ec-4b82-b68f-79b05d478d23)
 
 
