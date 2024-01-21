@@ -1,4 +1,6 @@
 ![standard (1)](https://github.com/phihung5705developer/phihung5705developer/assets/115966431/f097655a-87ec-4b82-b68f-79b05d478d23)
+https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white
+
 
 
 ![Capture](https://github.com/phihung5705developer/phihung5705developer/assets/115966431/4a9a4465-c099-4916-a70d-7c4d7a96cd0b)
