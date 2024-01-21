@@ -1,5 +1,5 @@
 ![standard (1)](https://github.com/phihung5705developer/phihung5705developer/assets/115966431/f097655a-87ec-4b82-b68f-79b05d478d23)
-https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white
+<a href="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" /></a>
 
 
 
