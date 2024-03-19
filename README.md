@@ -5,7 +5,7 @@
 
                                            
 ### 生命就是旅程 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Scribble&pause=1000&color=F70000&center=%C4%90%C3%9ANG+V%E1%BA%ACY&vCenter=%C4%90%C3%9ANG+V%E1%BA%ACY&repeat=%C4%90%C3%9ANG+V%E1%BA%ACY&random=SAI&width=435&lines=root%40Phung5705%3A~%23" alt="Typing SVG" /></a>                             
+<i class="fi fi-sr-shield-check"></i> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Scribble&pause=1000&color=F70000&center=%C4%90%C3%9ANG+V%E1%BA%ACY&vCenter=%C4%90%C3%9ANG+V%E1%BA%ACY&repeat=%C4%90%C3%9ANG+V%E1%BA%ACY&random=SAI&width=435&lines=root%40Phung5705%3A~%23" alt="Typing SVG" /></a>                             
 - 🌴 I’m currently learning brute force,dictionary attack,cryptanalysis,reverse engineering,fuzzing,Malware/Ransomware....
 - 💬 Ask me about about System,Networking... if you need them
 - 🙂 Pronouns: The mystery of security is that there is no security
